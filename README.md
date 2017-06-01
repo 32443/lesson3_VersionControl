@@ -8,7 +8,8 @@ LIS 2360:  Web Application Development
 
 ## Student Name:  
 > Tristen Rogers
-
+## View Project:
+> https://trr15b.github.io/lesson3_VersionControl/
 ## Project Description:
 > Create a repository and migrate the codes and programs onto Git Hub to display the commands.
 
